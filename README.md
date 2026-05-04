@@ -1,4 +1,4 @@
-## Hi there 👋
+## ALOHA 🤙
 
 <!--
 **vm-jperez/vm-jperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Joe]! 
 
 ![Banner Image](your_banner_image_url_here)
 
