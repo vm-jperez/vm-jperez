@@ -1,0 +1,10 @@
+{
+  "crowdstrike-ksm": {
+    "command": "powershell.exe",
+    "args": [
+      "-NoProfile",
+      "-ExecutionPolicy", "Bypass",
+      "-File", "C:\\Users\\<you>\\AppData\\Local\\mcp-servers\\crowdstrike-mcp-ksm\\run.ps1"
+    ]
+  }
+}
